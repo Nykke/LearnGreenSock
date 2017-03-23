@@ -1,0 +1,25 @@
+body {
+  /*background-image: url("https://lh3.googleusercontent.com/NcRpp1l8duQG5-_xp1AArCfOg-yERAYKQaPIMWMfxFnB4BiLVMGxDWpkhXBDj0RGHQ=h556");*/
+  background-image: url("images/night-315204_1280.jpg");
+  background-size: cover;
+
+}
+div {
+  position: relative;
+  }
+.moonman {
+  height: 280px;
+  width: 210px;
+  padding-top: 35em;
+  position: absolute;
+
+}
+
+.spaceshuttle {
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  padding-top: 17em;
+}
