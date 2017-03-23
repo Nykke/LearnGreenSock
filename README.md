@@ -32,6 +32,6 @@ I think GreenSock is an amazing tool, I enjoyed playing around with the animatio
   - Name three useful methods that GSAP uses.
 
 ### Resources
-https://greensock.com/docs/#/HTML5/GSAP/
-https://github.com/greensock/GreenSock-JS/
+https://greensock.com/docs/#/HTML5/GSAP/ <br />
+https://github.com/greensock/GreenSock-JS/ <br />
 https://ihatetomatoes.net/wp-content/uploads/2016/07/GreenSock-Cheatsheet-4.pdf
